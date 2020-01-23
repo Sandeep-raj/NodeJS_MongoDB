@@ -1,0 +1,67 @@
+[
+    {
+        "name": {
+            "firstName": "Sandeep",
+            "lastName": "Raj"
+        },
+        "age": 25,
+        "marks": {
+            "Physics": 23,
+            "Chemistry": 29,
+            "Maths": 34
+        },
+        "gender": "male"
+    },
+    {
+        "name" : {
+            "firstName" : "Shizuka",
+            "lastName" : "kaur"
+        },
+        "age" : 25,
+        "marks" : {
+            "Physics" : 31,
+            "Chemistry" : 34,
+            "Maths" : 38
+        },
+        "gender" : "female"
+    },
+    {
+        "name" : {
+            "firstName" : "Sid",
+            "lastName" : "gupta"
+        },
+        "age" : 24,
+        "marks" : {
+            "Physics" : 37,
+            "Chemistry" : 36,
+            "Maths" : 39
+        },
+        "gender" : "male"
+    },
+    {
+        "name" : {
+            "firstName" : "Abhishek",
+            "lastName" : "kumar"
+        },
+        "age" : 24,
+        "marks" : {
+            "Physics" : 27,
+            "Chemistry" : 26,
+            "Maths" : 17
+        },
+        "gender" : "male"
+    },
+    {
+        "name" : {
+            "firstName" : "Gaurav",
+            "lastName" : "chattree"
+        },
+        "age" : 23,
+        "marks" : {
+            "Physics" : 20,
+            "Chemistry" : 32,
+            "Maths" : 40
+        },
+        "gender" : "male"
+    }
+]
